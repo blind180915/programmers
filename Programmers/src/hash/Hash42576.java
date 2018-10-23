@@ -6,7 +6,7 @@ import java.util.Set;
 
 // 완주하지 못한 선수
 
-public class Hash1 {
+public class Hash42576 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
