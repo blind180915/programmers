@@ -49,7 +49,20 @@ public class DFS_BFS43165 {
 		
 		recursion(numbers, target - numbers[index], index);
 		recursion(numbers, target + numbers[index], index);
-		
-		
 	}
+	
+	public int otherSolution(int[] numbers, int target) {
+        int answer = 0;
+        answer = dfs(numbers, 0, 0, target);
+        return answer;
+    }
+    int dfs(int[] numbers, int n, int sum, int target) {
+        if(n == numbers.length) {
+            if(sum == target) {
+                return 1;
+            }
+            return 0;
+        }
+        return dfs(numbers, n + 1, sum + numbers[n], target) + dfs(numbers, n + 1, sum - numbers[n], target);
+    }
 }
