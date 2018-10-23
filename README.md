@@ -25,7 +25,8 @@
       * poll() head에서 element를 제거하며 읽는다. 만약 queue가 empty이면 null을 반환한다.
       * peek() head에서 element를 제거하지 않고 읽는다. 만약 queue가 empty이면 null을 반환한다
   * 추가 클래스
-    * java.util.Collections reverseOrder()
+    * java.util.Collections 
+      * reverseOrder()
   * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/heap/Heap42626.java)
 * 정렬
