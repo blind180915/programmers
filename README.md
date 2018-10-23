@@ -53,8 +53,14 @@
       * fill(data, value)
   * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/greedy/Greedy42862.java)
+    * 주의 사항 
+      * 문제를 잘읽자!! (문제를 내 마음대로 생각하지 않기) ex) 체육복 도난을 2개로 생각..
 * 동적계획법(Dynamic Programming)
   * 불필요한 계산을 줄이고, 효율적으로 최적해를 찾아야만 풀리는 문제들입니다.
+  * [타일 장식물](https://programmers.co.kr/learn/courses/30/lessons/43104)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/dynamic_programming/DynamicProgramming43104.java)
+    * 주의 사항
+      * 타입을 맞춰 준다. ex) 배열을 long타입으로 하지않아 틀림.
 * 깊이/너비 우선 탐색(DFS/BFS)
   * 깊이/너비 우선 탐색을 사용해 원하는 답을 찾아보세요.
 * 이분탐색
