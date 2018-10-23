@@ -38,6 +38,14 @@
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/sort/Sort42748.java)
 * 완전탐색
   * 무식해 보여도 사실은 최고의 방법일 때가 있지요.
+  * 사용 클래스
+    * java.util.ArrayList
+    * java.util.List
+      * add(value)
+  * 추가 클래스
+    * Math.max(value, value)
+  * [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/brute_force_search/BruteForceSearch42840.java)
 * 탐욕법(Greedy)
   * 부분적인 최적해가 전체적인 최적해가 되는 마법!
 * 동적계획법(Dynamic Programming)
