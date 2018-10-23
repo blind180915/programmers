@@ -3,11 +3,16 @@
 
 * 해시
   * 해시는 Key-value쌍으로 데이터를 저장하는 자료구조입니다.
-  * [완주하지 못한 선수](https://github.com/blind180915/programmers/blob/master/Programmers/src/hash/Hash1.java)
+  * [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/hash/Hash42576.java)
 * 스택/큐
   * LIFO, FIFO, push & pop! 스택과 큐를 이용해서 문제를 풀어보세요.
+  * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/stack/Stack42588.java)
 * 힙(Heap)
   * 힙은 특정한 규칙을 가지는 트리로, 힙을 이용해서 우선순위 큐를 구현할 수 있습니다.
+  * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/heap/Heap42626.java)
 * 정렬
   * 정렬을 이용해서 문제를 효율적으로 풀어보세요.
 * 완전탐색
