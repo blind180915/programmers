@@ -48,6 +48,11 @@
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/brute_force_search/BruteForceSearch42840.java)
 * 탐욕법(Greedy)
   * 부분적인 최적해가 전체적인 최적해가 되는 마법!
+  * 사용 클래스
+    * java.util.Arrays
+      * fill(data, value)
+  * [체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/greedy/Greedy42862.java)
 * 동적계획법(Dynamic Programming)
   * 불필요한 계산을 줄이고, 효율적으로 최적해를 찾아야만 풀리는 문제들입니다.
 * 깊이/너비 우선 탐색(DFS/BFS)
