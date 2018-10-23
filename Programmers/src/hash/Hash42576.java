@@ -10,11 +10,11 @@ public class Hash42576 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(mySolution(new String[] {"leo", "kiki", "eden"}, new String[] {"eden", "kiki"}));
-		System.out.println(mySolution(new String[] {"mislav", "stanko", "mislav", "ana"}, new String[] {"stanko", "mislav", "ana"}));
+		System.out.println(solution(new String[] {"leo", "kiki", "eden"}, new String[] {"eden", "kiki"}));
+		System.out.println(solution(new String[] {"mislav", "stanko", "mislav", "ana"}, new String[] {"stanko", "mislav", "ana"}));
 	}
 	
-	public static String mySolution(String[] participant, String[] completion) {
+	public static String solution(String[] participant, String[] completion) {
 		HashMap<String, Integer> map = new HashMap<>();
 		int length = participant.length;
 		for(int i = 0; i < length; ++i) {
