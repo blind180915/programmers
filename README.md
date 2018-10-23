@@ -63,5 +63,7 @@
       * 타입을 맞춰 준다. ex) 배열을 long타입으로 하지않아 틀림.
 * 깊이/너비 우선 탐색(DFS/BFS)
   * 깊이/너비 우선 탐색을 사용해 원하는 답을 찾아보세요.
+  * [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/dfs_bfs/DFS_BFS43165.java)
 * 이분탐색
   * 이분탐색 기법을 이용해 효율적으로 값을 찾아보세요.
