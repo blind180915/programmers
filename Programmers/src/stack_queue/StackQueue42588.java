@@ -1,4 +1,4 @@
-package stack;
+package stack_queue;
 
 import java.util.Arrays;
 
@@ -45,7 +45,7 @@ heights	return
 [7] 번째 탑이 쏜 신호는 6번째 탑이 수신합니다.
 */
 
-public class Stack42588 {
+public class StackQueue42588 {
 
 	public static void main(String[] args) {
 		
