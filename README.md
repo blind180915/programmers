@@ -67,5 +67,5 @@
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/dfs_bfs/DFS_BFS43165.java)
 * 이분탐색
   * 이분탐색 기법을 이용해 효율적으로 값을 찾아보세요.
-  * [예산](https://programmers.co.kr/learn/courses/30/lessons/43237?language=java)
+  * [예산](https://programmers.co.kr/learn/courses/30/lessons/43237)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/binary_search/BinarySearch43237.java)
