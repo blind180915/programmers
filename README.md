@@ -17,8 +17,15 @@
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/hash/Hash42577.java)
 * 스택/큐
   * LIFO, FIFO, push & pop! 스택과 큐를 이용해서 문제를 풀어보세요.
+  * 사용 클래스
+    * java.util.Stack
+      * push(value) 해당 스택의 제일 상단에 전달된 요소를 삽입함.
+      * peek() 해당 스택의 제일 상단에 있는(제일 마지막으로 저장된) 요소를 반환함.
+      * pop() 해당 스택의 제일 상단에 있는(제일 마지막으로 저장된) 요소를 반환하고, 해당 요소를 스택에서 제거함.
   * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/stack/Stack42588.java)
+  * [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/stack_queue/StackQueue42585.java)
 * 힙(Heap)
   * 힙은 특정한 규칙을 가지는 트리로, 힙을 이용해서 우선순위 큐를 구현할 수 있습니다.
   * 사용 클래스 
