@@ -47,6 +47,8 @@
       * sort(data)
   * [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/sort/Sort42748.java)
+  * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/sort/Sort42746.java)
 * 완전탐색
   * 무식해 보여도 사실은 최고의 방법일 때가 있지요.
   * 사용 클래스
