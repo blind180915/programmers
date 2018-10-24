@@ -13,6 +13,8 @@
     * java.util.Set
   * [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/hash/Hash42576.java)
+  * [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/hash/Hash42577.java)
 * 스택/큐
   * LIFO, FIFO, push & pop! 스택과 큐를 이용해서 문제를 풀어보세요.
   * [탑](https://programmers.co.kr/learn/courses/30/lessons/42588)
