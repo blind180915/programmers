@@ -38,6 +38,8 @@
       * reverseOrder()
   * [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/heap/Heap42626.java)
+  * [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)
+    * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/heap/Heap42628.java)
 * 정렬
   * 정렬을 이용해서 문제를 효율적으로 풀어보세요.
   * 사용 클래스
