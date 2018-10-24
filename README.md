@@ -45,6 +45,8 @@
   * 사용 클래스
     * java.util.Arrays
       * sort(data)
+    * java.util.Collections
+    * java.util.Comparator
   * [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/sort/Sort42748.java)
   * [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
