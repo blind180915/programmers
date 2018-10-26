@@ -101,7 +101,7 @@
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/dynamic_programming/DynamicProgramming43104.java)
     * 주의 사항
       * 타입을 맞춰 준다. ex) 배열을 long타입으로 하지않아 틀림.
- * [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
+  * [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105)
     * 삼각형의 꼭대기에서 바닥까지 이어지는 경로 중, 거쳐간 숫자의 합이 가장 큰 경우를 찾는다. 아래 칸으로 이동할 때는 대각선 방향으로 한 칸 오른쪽 또는 왼쪽으로만 이동 가능.
     * 규칙을 적용하여 전부 더 큰 수를 더하면서 내려오면서 마지막에 가장 큰 수를 확인하여 리턴.
     * [코드](https://github.com/blind180915/programmers/blob/master/Programmers/src/dynamic_programming/DynamicProgramming43105.java)
